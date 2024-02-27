@@ -1,6 +1,6 @@
 # Root-Vivo-Devices
 This is my own repository in which i try to root my android device as vivo devices are so hard to root 
-i am a very old vivo user from india 
+i am a very old vivo user from India 
 vivo phones have some great functions and great features hardware wise but we cannot use it for long time because it gets outdated so i am trying to root my vivo device
 and increasse the life of my vivo device i will be posting my updates in this repository from this day on 
 
@@ -18,3 +18,24 @@ STEPS
 # After Trying (Method-1)
 Errors --- Signature verification failed 
 i.e we must find a way to clone the signature of the file and apply it to our altered Firmware.  
+
+# Method - 2 (King root apk method)
+STEPS
+1. Download king root apk from a reliable source in internet. eg--(https://kingrootapp.net/)
+2. Install the apk and grant the required permissions.
+3. Go to settings and tap on "Try ROOT" to start the process of rooting.
+4. If the rooting process is success your device will reboot or if it does not it is okay in some rare cases.
+5. your phone will be rooted after the reboot
+6. NOTE:- The reboot is gonna be a bit long so it is good to plug in your mobile device
+
+> What is King Root Doing?
+
+So basically what is kingroot apk doing is. It is trying to find any vulnerabilities or loopholes in your android os and then it is trying to install the root files into the android system directory through that vulnerability. Which means that if you have an OS with good stabilisation and good security then trying kingroot method is just a time waste for you.
+
+# After Trying (Method - 2)
+Error --- King root was unable to find any vulnerabilities in Funtouch OS ( I tried both in Latest Device and Old model Device )
+> Reasons Might Be
+1. Funtouch OS is Really is very much secured. (Because the OTA updates are always very late and also after every update we get see very minor or less bugs in the system so by that we can assume that the OS is pretty much stabilised)
+2. As both King root and BBK Devices are chinese companies they might have an unofficial agreement to not give root access to bbk devices (This is my personal opinion though no offence)
+
+### Stil Trying new methods. Updates are yet to come (I Never Give Up On Anything)
