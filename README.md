@@ -15,6 +15,11 @@ STEPS
 7. rename the magisk patched system image to "system.img" and replace that with the system file in firmware (flash file)
 8. Now flash the zip file which contains magisk patched system image in it to your device and check if it is rooted or not.
 
+> What is Magisk Doing?
+
+
+ So basically what Magisk doing is it is extracting your default System image file, patching it, by installing root files into it and repacking it like a completely new system image file but this time with root files integrated to it so that you can get Super SU User or Root Permissions.
+ 
 # After Trying (Method-1)
 Errors --- Signature verification failed 
 i.e we must find a way to clone the signature of the file and apply it to our altered Firmware.  
