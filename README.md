@@ -43,4 +43,5 @@ Error --- King root was unable to find any vulnerabilities in Funtouch OS ( I tr
 1. Funtouch OS is Really is very much secured. (Because the OTA updates are always very late and also after every update we get see very minor or less bugs in the system so by that we can assume that the OS is pretty much stabilised)
 2. As both King root and BBK Devices are chinese companies they might have an unofficial agreement to not give root access to bbk devices (This is my personal opinion though no offence)
 
-### Stil Trying new methods. Updates are yet to come (I Never Give Up On Anything)
+### Stil Trying new methods. Updates are yet to come
+
